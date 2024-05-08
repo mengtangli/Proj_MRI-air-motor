@@ -1,6 +1,8 @@
 # Proj_MRI-air-motor
 # readme
+
 % ========================== GENERAL INFO ============================== %
+
 Authors: 
  - Zhijie Pan & Mengtang Li, Ph.D.
  - Institution: Sun Yat-Sen University, China.
