@@ -9,6 +9,7 @@ Authors:
  Description:
   - Please read the published Journal ariticle for more info: Pan, Z., et al. Cornerstone for MRI-compatible robots: A continuous pneumatic actuator
 with easy-to-connect prismatic/revolute and bidirectional encoder modules, MEASRUEMENT, 2024. https://doi.org/10.1016/j.measurement.2024.114685
+  - Supp. Vid can be found at: https://www.youtube.com/watch?v=GabAmfBLwVU&t=7s
   - This guihub repo contains the open sourced CAD files for the proposed MRI-compatible pneumatic motor, and PCB files for the optical fiber encoder (will update later).
 
 
