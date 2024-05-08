@@ -4,7 +4,7 @@
 Authors: 
  - Zhijie Pan & Mengtang Li, Ph.D.
  - Institution: Sun Yat-Sen University, China.
- - Date: 2024 05 08
+ - Date: 2024 05 08 (first release)
 
  Description:
   - Please read the published Journal ariticle for more info: Pan, Z., et al. Cornerstone for MRI-compatible robots: A continuous pneumatic actuator
