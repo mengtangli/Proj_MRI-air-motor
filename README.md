@@ -3,8 +3,7 @@
 
 % ========================== GENERAL INFO ============================== %
 
-Authors: 
- - Zhijie Pan & Mengtang Li, Ph.D.
+ - Authors: Zhijie Pan & Mengtang Li, Ph.D.
  - Institution: Sun Yat-Sen University, China.
  - Date: 2024 05 08 (first release)
 
